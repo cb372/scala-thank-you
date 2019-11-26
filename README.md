@@ -13,4 +13,4 @@ Rendering as SVG...
 Finished rendering as SVG
 ```
 
-The resulting enormous graph is available [here](scala-thank-you.svg). Warning: 1.1 MB SVG file.
+The resulting enormous graph is available [here](https://raw.githubusercontent.com/cb372/scala-thank-you/master/scala-thank-you.svg?sanitize=true). Warning: 1.1 MB SVG file.
